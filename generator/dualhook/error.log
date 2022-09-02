@@ -1,0 +1,1 @@
+ERROR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) - /generator/dualhook/ at Monday 25th of April, 2022, 01:15:47 PM
